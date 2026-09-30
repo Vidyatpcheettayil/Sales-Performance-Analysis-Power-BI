@@ -30,7 +30,7 @@ ________________________________________
 -	Developed three dashboard pages: Sales Analysis, Product Analysis, and Regional Analysis. 
 -	Interpreted the results to identify products, regions, and business areas requiring further attention. 
 # Dashboard
- ![Sales Analysis Dashboard(Power BI).png](Sales-Performance-Analysis-Power-BI/Sales Analysis Dashboard(Power BI).png at main · Vidyatpcheettayil/Sales-Performance-Analysis-Power-BI)
+ ![Sales Analysis Dashboard(Power BI).png](https://github.com/Vidyatpcheettayil/Sales-Performance-Analysis-Power-BI/blob/main/Sales%20Analysis%20Dashboard(Power%20BI).png)
  # Project Insights
 -	The dashboard recorded 9.43M in total sales and 1.11M in total profit, resulting in an overall 11.73% profit margin. 
 -	Technology generated the highest sales among product categories, while Clothing showed the highest profit margin at around 27.41%. 
