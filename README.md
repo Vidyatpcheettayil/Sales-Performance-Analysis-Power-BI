@@ -1,7 +1,8 @@
 # Sales performance Analysis Dashboard
 ## Project Objective 
 To analyze sales and profitability performance across products, customer segments, shipping modes, and regions using Power BI, and identify key business areas that require further attention.
-Dataset Used
+
+# Dataset Used
   eg: -<a href=  ">Dataset</a>
 
 
@@ -11,11 +12,11 @@ ________________________________________
 -	How do sales and profit vary across product categories and customer segments? 
 -	Which products contribute the most to sales and profit? 
 -	How do discounts relate to profit margin? 
--	How do sales and profit vary by shipping mode? 
+-  How do sales and profit vary by shipping mode? 
 -	How does sales performance change over time? 
 -	Which regions and states perform better or lower in sales and profitability? 
 -	Which regions have higher or lower profit margins? 
-Dashboard Interaction
+# Dashboard Interaction
   -<a href= " ">View dashboard</a>
 
 
