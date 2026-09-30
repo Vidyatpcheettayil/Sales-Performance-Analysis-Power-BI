@@ -17,7 +17,7 @@ ________________________________________
 -	Which regions and states perform better or lower in sales and profitability? 
 -	Which regions have higher or lower profit margins? 
 # Dashboard Interaction
-  -<a href= " https://github.com/Vidyatpcheettayil/Sales-Performance-Analysis-Power-BI/blob/main/SALESDASHBOARDPOWBI.pbix">View dashboard</a>
+  -<a href= "https://github.com/Vidyatpcheettayil/Sales-Performance-Analysis-Power-BI/blob/main/SALESDASHBOARDPOWBI.pbix">View dashboard </a>
 
 
 
